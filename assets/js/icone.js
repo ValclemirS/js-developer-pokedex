@@ -1,4 +1,4 @@
-/*evento de click do botão*/
+
 pokemonList.addEventListener("click", (event) => {
     const clickedPokemon = event.target.closest(".pokemon");
     if (clickedPokemon) {

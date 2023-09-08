@@ -5,7 +5,7 @@
     padding: 0;
     list-style: none;
 }
-/* alterar o tamanho do icone*/
+
 .pokemon.clicked {
     font-size: 24px;
     margin: 5rem;
